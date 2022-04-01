@@ -20,8 +20,8 @@ Following modules must be installed: matplotlib.pyplot ; numpy ; rasterio ; geop
 Users will need to download unadjusted 2020 Australia population data from WolrdPop
 
 Features:
-Mapping JEV cases: 'JEVmapsFINALv2.ipynb'
-Estimating population at risk of JEV: 'JEVfinal.ipynb'
+Mapping JEV cases: 'JEVmapsUPLOAD.ipynb'
+Estimating population at risk of JEV: 'JEVfinalUPLOAD.ipynb'
 
 Status:
 Project is: finished

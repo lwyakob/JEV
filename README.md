@@ -17,6 +17,7 @@ Python - version 3.9
 
 Setup:
 Following modules must be installed: matplotlib.pyplot ; numpy ; rasterio ; geopandas; shapely, pyproj; json; plotly
+Users will need to download unadjusted 2020 Australia population data from WolrdPop
 
 Features:
 Mapping JEV cases: 'JEVmapsFINALv2.ipynb'
